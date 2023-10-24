@@ -42,7 +42,7 @@
       "KC_K",
       "KC_L",
       "KC_SCLN",
-      "KC_ENT",
+      "KC_QUOT",
       "KC_LCTL",
       "KC_Z",
       "KC_X",
@@ -50,7 +50,7 @@
       "KC_V",
       "KC_B",
       "KC_MINS",
-      "KC_QUOT",
+      "KC_NO",
       "KC_N",
       "KC_M",
       "KC_COMM",
@@ -78,7 +78,7 @@
       "KC_F8",
       "KC_F9",
       "KC_F10",
-      "KC_TRNS",
+      "KC_DEL",
       "KC_TRNS",
       "KC_RCBR",
       "KC_RBRC",
@@ -244,7 +244,7 @@
       "KC_ENT",
       "KC_RALT",
       "KC_LGUI",
-      "OSL(2)"
+      "TO(2)"
     ]
   ],
   "author": ""
